@@ -1,5 +1,8 @@
 import os
+from dotenv import load_dotenv
 from typing import Dict, Any
+
+load_dotenv()
 
 class Config:
     APP_NAME = "ResuMatch"

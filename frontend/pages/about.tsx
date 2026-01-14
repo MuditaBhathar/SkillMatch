@@ -58,10 +58,10 @@ export default function About() {
   return (
     <>
       <Head>
-        <title>About ResuMatch - AI Resume Analysis Platform</title>
+        <title>About SkillMatch - AI Resume Analysis Platform</title>
         <meta 
           name="description" 
-          content="Learn about ResuMatch's AI-powered resume analysis platform using natural language processing and machine learning algorithms for smart recruitment." 
+          content="Learn about SkillMatch's AI-powered resume analysis platform using natural language processing and machine learning algorithms for smart recruitment." 
         />
       </Head>
 
@@ -78,7 +78,7 @@ export default function About() {
             >
               <h1 className="text-3xl md:text-5xl lg:text-6xl font-bold text-gray-900 mb-4 md:mb-6">
                 About
-                <span className="gradient-text block">ResuMatch</span>
+                <span className="gradient-text block">SkillMatch</span>
               </h1>
               <p className="text-lg md:text-xl text-gray-600 max-w-4xl mx-auto leading-relaxed px-4">
                 AI-powered resume analysis platform using natural language processing and machine 
@@ -95,7 +95,7 @@ export default function About() {
               <div className="max-w-4xl mx-auto">
                 <h2 className="text-2xl md:text-3xl font-bold text-gray-900 mb-4 md:mb-6">Our Mission</h2>
                 <p className="text-base md:text-lg text-gray-600 leading-relaxed">
-                  ResuMatch transforms the recruitment process by leveraging advanced natural language processing 
+                  SkillMatch transforms the recruitment process by leveraging advanced natural language processing 
                   and machine learning techniques to analyze resumes and match them with job descriptions. 
                   Our platform helps organizations make data-driven hiring decisions by providing detailed 
                   insights into candidate compatibility and skill alignment.
@@ -177,7 +177,7 @@ export default function About() {
                     Advanced Technology Stack
                   </h2>
                   <p className="text-lg text-gray-600 mb-8">
-                    ResuMatch is built using a modern technology stack to deliver professional-grade 
+                    SkillMatch is built using a modern technology stack to deliver professional-grade 
                     AI-powered recruitment solutions. Our platform utilizes advanced natural language 
                     processing techniques and machine learning approaches for intelligent resume analysis.
                   </p>

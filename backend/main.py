@@ -27,10 +27,6 @@ cors_origins_str = os.environ.get("CORS_ORIGINS", "http://localhost:3000,https:/
 cors_origins = cors_origins_str.split(",")
 explicit_domains = [
     "http://localhost:3000",
-    "https://resumatchfrontend.vercel.app",
-    "https://resmatchfrontend.vercel.app",
-    "https://resmatchfrontend-crc4bg6mn-gaurav-singhs-projects-9a3381d4.vercel.app",
-    "https://resmatchfrontend-6wcnragsb-gaurav-singhs-projects-9a3381d4.vercel.app"
 ]
 all_origins = list(set(cors_origins + explicit_domains))
 

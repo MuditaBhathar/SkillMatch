@@ -19,7 +19,7 @@ const faqs = [
     category: 'Getting Started',
     questions: [
       {
-        question: 'What file formats does ResuMatch support?',
+        question: 'What file formats does SkillMatch support?',
         answer: 'ResuMatch supports PDF, DOC, DOCX, TXT, JPG, and PNG files. We recommend using PDF or DOCX formats for the best results.',
       },
       {

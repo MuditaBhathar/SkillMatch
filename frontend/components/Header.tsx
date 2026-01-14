@@ -27,7 +27,7 @@ export default function Header() {
               <div className="w-10 h-10 bg-gradient-to-r from-primary-600 to-purple-600 rounded-xl flex items-center justify-center">
                 <Target className="w-6 h-6 text-white" />
               </div>
-              <span className="text-2xl font-bold gradient-text">ResuMatch</span>
+              <span className="text-2xl font-bold gradient-text">SkillMatch</span>
             </Link>
           </motion.div>
           <div className="hidden md:flex items-center space-x-6 lg:space-x-8">

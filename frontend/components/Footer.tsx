@@ -5,7 +5,7 @@ import Link from 'next/link';
 
 const footerLinks = {
   project: [
-    { name: 'Source Code', href: 'https://github.com/gauravsingh07/ResuMatch' },
+    { name: 'Source Code', href: 'https://github.com/MuditaBhathar/SkillMatch' },
     { name: 'Documentation', href: '/help' },
     { name: 'About Project', href: '/about' },
   ],
@@ -18,8 +18,8 @@ const footerLinks = {
 };
 
 const socialLinks = [
-  { name: 'GitHub', icon: Github, href: 'https://github.com/gauravsingh07/ResuMatch' },
-  { name: 'Email', icon: Mail, href: 'mailto:gaurav91345@gmail.com' },
+  { name: 'GitHub', icon: Github, href: 'https://github.com/MuditaBhathar/SkillMatch' },
+  { name: 'Email', icon: Mail, href: 'mailto:mudita@gmail.com' },
 ];
 
 export default function Footer() {
@@ -99,7 +99,7 @@ export default function Footer() {
               Have questions about this project or want to connect? Feel free to reach out!
             </p>
             <motion.a
-              href="mailto:gaurav91345@gmail.com"
+              href="mailto:mudita@gmail.com"
               whileHover={{ scale: 1.05 }}
               whileTap={{ scale: 0.95 }}
               className="btn-primary inline-flex items-center px-4 md:px-6 py-2 md:py-3 text-sm md:text-base"

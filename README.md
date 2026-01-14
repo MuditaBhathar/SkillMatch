@@ -1,4 +1,4 @@
-# SkillMatch 🎯
+# SkillMatch
 
 ## Revolutionize Your Job Application Process
 
